@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @willhemz
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React/Vue
-- 💞️ I’m looking to collaborate on frontend-projects for now
+- 🌱 I code using React Framework
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking for frontend development job opportunities
 - 📫 How to reach me williamsdev.official@gmail.com
 
 <!---
